@@ -2,7 +2,9 @@
 
 Sistema de consola para gestionar doctores y pacientes en un hospital. Permite cargar datos desde JSON, operar mediante un menu interactivo, guardar resultados al finalizar y ejecutar tests unitarios.
 
-Por Juan Gómez Carrillo
+Juan Gómez Carrillo
+Programación II
+Prof. Manuel Adrian Caceres
 
 ---
 
@@ -123,11 +125,10 @@ java -cp "bin;lib/*" HospitalTest
 
 El DNI del paciente se usa como clave unica en el JSON y en el sistema.
 
----
-
-## Autores
-
-Trabajo practico — Programacion 2 — UCES
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 Juan Gómez Carrillo
+Programación II
+Prof. Manuel Adrian Caceres
 
