@@ -141,7 +141,7 @@ public class Main {
     static void agregarDoctor(Scanner scanner, Hospital hospital) {
         try {
             String nombre = leerTextoObligatorio(scanner, "Nombre del doctor: ");
-            String apellido = leerTextoObligatorio(scanner, "Apellido del doctor: ");
+            String apellido = leerTextoObligatorio(scanner, "Apellido: ");
             int identificacion = leerNroEntero(scanner, "Identificacion medica: ");
             String especialidad = leerTextoObligatorio(scanner, "Especialidad: ");
 
@@ -155,7 +155,7 @@ public class Main {
 
     static void verTodosDoctores(Hospital hospital) {
         hospital.doctores.values().forEach(doctor -> {
-            System.out.println("Doctor: " + doctor.nombre + " " + doctor.apellido + " - " + doctor.identificacionMedica + " - " + doctor.especialidad);
+            System.out.println("Dr. " + doctor.nombre + " " + doctor.apellido + " - " + doctor.identificacionMedica + " - " + doctor.especialidad);
         });
     }
 
