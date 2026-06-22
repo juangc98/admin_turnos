@@ -9,7 +9,6 @@
       "especialidad": "Clinica medica",
       "pacientes": {
         "12345678": {
-          "id": 0,
           "dni": 12345678,
           "nombre": "Juan",
           "apellido": "Gomez",
@@ -21,7 +20,6 @@
           "fechaIngreso": "2026-05-20"
         },
         "23456789": {
-          "id": 0,
           "dni": 23456789,
           "nombre": "Maria",
           "apellido": "Lopez",
@@ -33,7 +31,6 @@
           "fechaIngreso": "2026-05-22"
         },
         "34567890": {
-          "id": 0,
           "dni": 34567890,
           "nombre": "Carlos",
           "apellido": "Ruiz",
@@ -53,7 +50,6 @@
       "especialidad": "Pediatria",
       "pacientes": {
         "45678901": {
-          "id": 0,
           "dni": 45678901,
           "nombre": "Lucia",
           "apellido": "Martinez",
@@ -65,7 +61,6 @@
           "fechaIngreso": "2026-05-21"
         },
         "56789012": {
-          "id": 0,
           "dni": 56789012,
           "nombre": "Tomas",
           "apellido": "Diaz",
@@ -85,7 +80,6 @@
       "especialidad": "Traumatologia",
       "pacientes": {
         "67890123": {
-          "id": 0,
           "dni": 67890123,
           "nombre": "Pedro",
           "apellido": "Sanchez",
@@ -97,7 +91,6 @@
           "fechaIngreso": "2026-05-23"
         },
         "78901234": {
-          "id": 0,
           "dni": 78901234,
           "nombre": "Sofia",
           "apellido": "Torres",
@@ -109,7 +102,6 @@
           "fechaIngreso": "2026-05-26"
         },
         "89012345": {
-          "id": 0,
           "dni": 89012345,
           "nombre": "Diego",
           "apellido": "Ramirez",
@@ -129,7 +121,6 @@
       "especialidad": "Cardiologia",
       "pacientes": {
         "90123456": {
-          "id": 0,
           "dni": 90123456,
           "nombre": "Elena",
           "apellido": "Vega",

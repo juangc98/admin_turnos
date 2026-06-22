@@ -44,7 +44,8 @@ Deben desarrollar un sistema para gestionar doctores y pacientes en un hospital.
 ```
 admin_turnos/
 ├── src/
-│   ├── Main.java              # Menu principal
+│   ├── Main.java              # Punto de entrada
+│   ├── GestorHospital.java    # Menu y operaciones de consola
 │   ├── Hospital.java          # Logica del hospital
 │   ├── Doctor.java            # Doctor y sus pacientes
 │   ├── Paciente.java          # Datos del paciente
